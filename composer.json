@@ -1,0 +1,19 @@
+{
+    "name": "aibay/test1",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "aibayanyu",
+            "email": "aibayanyu@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+		"php": ">=7.1.0"
+	},
+    "autoload": {
+        "psr-4": {
+            "aibayanyu\\jwt\\":"src/"
+        }
+    }
+}
