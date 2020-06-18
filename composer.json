@@ -15,5 +15,6 @@
         "psr-4": {
             "aibayanyu\\jwt\\":"src/"
         }
-    }
+    },
+	"version":"1.0.0"
 }
